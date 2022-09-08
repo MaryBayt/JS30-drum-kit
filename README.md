@@ -9,7 +9,7 @@
 
 **Description**
 
-This is my first fun pet-project for [#JavaScript30](https://javascript30.com/) challenge - a drum kit.
+This is my first fun pet-project for [#JavaScript30](https://javascript30.com/) challenge — a drum kit.
 
 **Link to the project**
 
